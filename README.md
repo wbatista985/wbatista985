@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wbatista985" alt="wbatista985" /></a> </p>
 
-- 🌱 I’m currently learning **Buscando e especializando continuadamente nas melhores tecnologias!**
+- **Buscando e especializando continuadamente nas melhores tecnologias!**
 
-- 💬 Ask me about **Angular, JavaScript, react and frameworks front end Developer**
+- **Angular, JavaScript, react and frameworks front end Developer**
 
-- 📫 How to reach me **wbatista985@gmail.com**
+- **wbatista985@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
