@@ -10,7 +10,7 @@
 
 - **Angular, JavaScript, react and frameworks front end Developer**
 
-- **wbatista985@gmail.com**
+- **wbatista985@gmail.com** <br>
 
 
 
