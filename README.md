@@ -1,7 +1,6 @@
 <h1 align="center"> I'm Wagner silvio batista dos santos</h1>
-<h3 align="center">frontend developer</h3>
+<h3 align="center">Front end Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wbatista985" alt="wbatista985" /></a> </p>
 
 - **Buscando e especializando continuadamente nas melhores tecnologias!**
 
