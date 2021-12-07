@@ -29,6 +29,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wbatista985&theme=dracula" alt="wbatista985" /></p>
 
- ![Snake animation](https://github.com/wbatista985/wbatista985/blob/output/github-contribution-grid-snake.svg)
+
 
 
