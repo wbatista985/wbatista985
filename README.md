@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wbatista985&theme=dracula" alt="wbatista985" /></p>
 
-![snake gif](https://github.com/username=wbatista985/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/username=wbatista985/username=wbatista985/blob/output/github-contribution-grid-snake.gif)
