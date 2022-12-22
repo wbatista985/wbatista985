@@ -1,14 +1,14 @@
 <h1 align="center"> I'm Wagner silvio batista dos santos</h1>
 
 
-<h3 align="center">Front end Developer</h3><br>
+<h3 align="center">Backend Developer</h3><br>
 
 
 
 
 - **Buscando e especializando continuadamente nas melhores tecnologias!**
 
-- **Angular, JavaScript, react and frameworks front end Developer**
+- **Java, Angular, JavaScript, react and frameworks Developer**
 
 - **wbatista985@gmail.com** <br>
 
