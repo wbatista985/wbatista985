@@ -6,7 +6,7 @@
 
 
 
-- **Buscando e especializando continuadamente nas melhores tecnologias!**
+- **Especializando continuadamente nas melhores tecnologias!**
 
 - **Java, Angular, JavaScript, react and frameworks Developer**
 
